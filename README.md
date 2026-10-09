@@ -345,7 +345,8 @@ Atau lewat VS Code: buka `Main.java`, lalu klik **Run** di atas method `main`.
 
 ### 🗂️ Struktur Repository
 
-![Struktur Repository](screenshots/repository.png)
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/6bcb5589-1090-4e79-abd0-ade228975669" />
+
 
 *Gambar 1. Isi repository di GitHub.*
 
